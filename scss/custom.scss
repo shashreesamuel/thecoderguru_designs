@@ -1,0 +1,63 @@
+$colors: (
+    "color_blue": rgb(37, 150, 190),
+    "color_red": red,
+    "color_purple": purple,
+    "color_green": green
+);
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+// $body-bg: rgb(247, 242, 242);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.hero-background{
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('https://uhdwallpapers.org/uploads/converted/18/11/02/oneplus-6t-stock-abstract-1920x1080_55964-mm-90.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+ }
+
+ #btn-back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+  }
+  @include media-breakpoint-up(sm){
+      html{
+          font-size: 0.9rem;
+    }
+  }
+  @include media-breakpoint-up(md){
+    html{
+        font-size: 1rem;
+  }
+}
+@include media-breakpoint-up(lg){
+    html{
+        font-size: 1.1rem;
+  }
+}
+
+.container .animate__animated .animate__fadeInUp{
+    animation: fadeInUp;
+    animation-duration: 2s;
+}
+
+.text-design-1{
+    text-decoration: underline;
+    color: map-get($colors, color_green);
+}
+
+.text-design-2{
+    text-decoration: underline;
+    color: map-get($colors, color_purple);
+}
+
+.animate__fadeInUp{
+    animation-duration: 30s;
+}
