@@ -1,44 +1,16 @@
-<html>
-    <body>
-        <?php
-            // Create Connection
-            $conn = new mysqli('sql303.byethost18.com', 'b18_29384861', 'Webdesign1');
+<?php
 
-            // Check Connection
-            if ($conn->connect_error){
-                die("Connection failed: " . $conn->connect_error);
-            }
-            echo "DB Connected Successfully\n";
+if (isset($_POST['submit'])){
+    $name = $_POST['name']
+    $subject = $_POST['subject']
+    $email = $_POST['email']
+    $message = $_POST['message']
 
-            echo "<br>";
-
-            echo "<br>";
-
-            echo "<br>";
-
-            // this will select the Database databaseName
-            mysqli_select_db($conn, "b18_29384861_contact_info");
+    $mailTo = "shashreeshachindrasamuel14@gmail.com"
+    $headers = "From: ".$email;
+    $txt = "You have recieved an email from ".$name.".\n\n.$message"
 
 
-            echo "\n DB is selected as b18_29384861_contact_info successfully\n";
-
-            echo "<br>";
-
-            echo "<br>";
-
-            echo "<br>";
-            // create INSERT query
-
-            $sql = "INSERT INTO customer_info (fname, lname, age, email, country) VALUES ('$_POST[fname]', '$_POST[lname]', '$_POST[age]', '$_POST[email]', '$_POST[country]')";
-
-            if( $conn-> query($sql) === TRUE){
-                
-                echo "New record created successfully";
-            } else {
-                echo "Error: " . $sql . "<br>" . $conn->error;
-            }
-
-            mysqli_close($conn);
-        ?>
-    </body>
-</html>
+    mail($mailTo, $subject, $txt, $headers);
+    header("Location: contact.html?mailsend");
+}

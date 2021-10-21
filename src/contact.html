@@ -48,24 +48,30 @@
         </div>
       </nav>
 
-      <div class="container p-5 m-5 animate__animated animate__backInDown">
+      <div class="container p-5 m-5 animate__animated animate__fadeInLeft">
         <h5 class="text-center p-3">Contact Me</h5>
-        <form action="php/index.php" class="was-validated">
+        <form action="../php/index.php" class="was-validated">
           <div class="form-floating">
-            <input type="text" class="form-control" id="fname" placeholder="Enter username" required>
-            <label for="fname">First Name:</label>
+            <input type="text" class="form-control" id="name" placeholder="Enter username" required>
+            <label for="name">Name:</label>
             <div class="valid-feedback">Valid.</div>
           </div>
           <br>
           <div class="form-floating">
-            <input type="text" class="form-control" id="lname" placeholder="Enter username" required>
-            <label for="lname">Last Name:</label>
+            <input type="text" class="form-control" id="subject" placeholder="Enter username" required>
+            <label for="subject">Subject:</label>
             <div class="valid-feedback">Valid.</div>
           </div>
           <br>
           <div class="form-floating">
-            <textarea class="form-control" placeholder="Leave a comment here" id="textarea" style="height: 100px"></textarea>
-            <label for="textarea">Message</label>
+            <input type="text" class="form-control" id="email" placeholder="Enter username" required>
+            <label for="email">Email:</label>
+            <div class="valid-feedback">Valid.</div>
+          </div>
+          <br>
+          <div class="form-floating">
+            <textarea class="form-control" placeholder="Leave a comment here" id="message" style="height: 100px"></textarea>
+            <label for="message">Message</label>
           </div>
           <br>
           <button type="submit" class="btn btn-primary">Submit</button>
