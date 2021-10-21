@@ -1,4 +1,4 @@
-import * as bootstrap from 'bootstrap';
+'../node_modules/bootstrap/js'
 
 //Get the button
 let mybutton = document.getElementById("btn-back-to-top");
