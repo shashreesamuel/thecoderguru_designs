@@ -49,12 +49,11 @@ $font-family-sans-serif: 'Poppins', sans-serif;
 }
 
 .text-design-1{
-    text-decoration: underline;
     color: map-get($colors, color_green);
 }
 
+
 .text-design-2{
-    text-decoration: underline;
     color: map-get($colors, color_purple);
 }
 
@@ -200,4 +199,8 @@ h6 {
 
 -webkit-scrollbar {
     display: none;
+}
+
+.bi.bi-arrow-up-circle.h1{
+    margin-bottom: -701px;
 }

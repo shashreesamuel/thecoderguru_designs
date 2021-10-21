@@ -11148,12 +11148,10 @@ textarea.form-control-lg {
 }
 
 .text-design-1 {
-  text-decoration: underline;
   color: green;
 }
 
 .text-design-2 {
-  text-decoration: underline;
   color: purple;
 }
 
@@ -11297,6 +11295,10 @@ h6, .h6 {
 
 -webkit-scrollbar {
   display: none;
+}
+
+.bi.bi-arrow-up-circle.h1 {
+  margin-bottom: -701px;
 }
 
 /*# sourceMappingURL=/custom.18d3a4a7.css.map */

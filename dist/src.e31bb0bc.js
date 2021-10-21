@@ -8167,7 +8167,24 @@ $(function () {
   function percentageToDegrees(percentage) {
     return percentage / 100 * 360;
   }
-});
+}); // Example starter JavaScript for disabling form submissions if there are invalid fields
+
+(function () {
+  'use strict'; // Fetch all the forms we want to apply custom Bootstrap validation styles to
+
+  var forms = document.querySelectorAll('.needs-validation'); // Loop over them and prevent submission
+
+  Array.prototype.slice.call(forms).forEach(function (form) {
+    form.addEventListener('submit', function (event) {
+      if (!form.checkValidity()) {
+        event.preventDefault();
+        event.stopPropagation();
+      }
+
+      form.classList.add('was-validated');
+    }, false);
+  });
+})();
 },{"bootstrap":"../node_modules/bootstrap/dist/js/bootstrap.esm.js"}],"../../../.config/nvm/versions/node/v16.11.1/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -8196,7 +8213,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "36319" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "42977" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

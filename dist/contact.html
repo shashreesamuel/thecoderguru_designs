@@ -5,6 +5,7 @@
     <title>Test Bootstrap</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/custom.18d3a4a7.css">
+    <link rel="icon" href="/1492617372-3-sites-google-window-website-search-engine_83453.c1d52e98.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +18,7 @@
       <!-- Navigation bar for website -->
       <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-2 fixed-top">
         <div class="container">
-          <a href="#" class="navbar-brand fw-bold text-primary">TheCoderGuru</a>
+          <a href="/index.html" class="navbar-brand fw-bold text-primary">TheCoderGuru</a>
   
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
             <span class="navbar-toggler-icon"></span>
@@ -39,12 +40,29 @@
         </div>
       </nav>
 
-      <div class="container-fluid p-5 m-5">
-          <h4 class="text-center">Contact Me</h4>
-          <div class="form-group">
-            <label class="control-label">Enter a Name</label>
-            <input id="name">
-        </div>
+      <div class="container p-5 m-5">
+        <h5 class="text-center p-3">Contact Me</h5>
+        <form action="php/index.php" class="was-validated">
+          <div class="form-floating">
+            <input type="text" class="form-control" id="fname" placeholder="Enter username" required="">
+            <label for="fname">First Name:</label>
+            <div class="valid-feedback">Valid.</div>
+          </div>
+          <br>
+          <div class="form-floating">
+            <input type="text" class="form-control" id="lname" placeholder="Enter username" required="">
+            <label for="lname">Last Name:</label>
+            <div class="valid-feedback">Valid.</div>
+          </div>
+          <br>
+          <div class="form-floating">
+            <textarea class="form-control" placeholder="Leave a comment here" id="textarea" style="height: 100px"></textarea>
+            <label for="textarea">Message</label>
+          </div>
+          <br>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+      </div>
         
       <footer class="d-flex flex-wrap justify-content-between align-items-center p-5 m-5 border-top">
         <p class="col-md-4 mb-0 text-muted">&copy; 2021 TheCoderGuru</p>
@@ -55,7 +73,5 @@
         </a>
       </footer>     
     <script src="/src.e31bb0bc.js"></script>
-    <script src="/bootstrap-validate.f30e967c.js"></script>
-    <script>bootstrapValidate('#name', 'min:5:Your name must not be longer than 30 characters');</script>
-  </div></body>
+  </body>
 </html>
