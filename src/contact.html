@@ -50,31 +50,19 @@
 
       <div class="container p-5 m-5 animate__animated animate__fadeInLeft">
         <h5 class="text-center p-3">Contact Me</h5>
-        <form method="POST" data-netlify= "true" class="was-validated">
-          <div class="form-floating">
-            <input type="text" class="form-control" id="name" placeholder="Enter username" required>
-            <label for="name">Name:</label>
-            <div class="valid-feedback">Valid.</div>
-          </div>
-          <br>
-          <div class="form-floating">
-            <input type="text" class="form-control" id="subject" placeholder="Enter username" required>
-            <label for="subject">Subject:</label>
-            <div class="valid-feedback">Valid.</div>
-          </div>
-          <br>
-          <div class="form-floating">
-            <input type="text" class="form-control" id="email" placeholder="Enter username" required>
-            <label for="email">Email:</label>
-            <div class="valid-feedback">Valid.</div>
-          </div>
-          <br>
-          <div class="form-floating">
-            <textarea class="form-control" placeholder="Leave a comment here" id="message" style="height: 100px"></textarea>
-            <label for="message">Message</label>
-          </div>
-          <br>
-          <input type="submit" value="Submit">
+        <form name="contact" method="POST" data-netlify="true">
+          <p>
+            <label>Your Name: <input type="text" name="name" /></label>   
+          </p>
+          <p>
+            <label>Your Email: <input type="email" name="email" /></label>
+          </p>
+          <p>
+            <label>Message: <textarea name="message"></textarea></label>
+          </p>
+          <p>
+            <button type="submit">Send</button>
+          </p>
         </form>
       </div>
         
