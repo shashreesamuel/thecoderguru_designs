@@ -1,11 +1,11 @@
 18522
-89/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/index.654b7951.css.map1635201824251907613 0
-79/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/contact.html1635201824237907614 0
-66/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build1635201824251907613 1
+89/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/index.654b7951.css.map1635296642557045731 0
+79/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/contact.html1635296642526045733 0
+66/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build1635296642558045731 1
 64/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/php1635201020366949981 1
 82/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.vscode/settings.json1634517919734481716 0
 68/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.vscode1634517919288481744 1
-86/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/github_personal_token.txt1634835955057712961 0
+86/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/github_personal_token.txt1635207257048548036 0
 67/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/images1634777753325609875 1
 70/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.cache/fc1634315822485723187 1
 106/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.cache/fb/f755335e0102cb1bacc52a93917eb2.json1634823762345643563 0
@@ -172,8 +172,8 @@
 70/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.cache/031634315807679723866 1
 70/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.cache/001634315823022723163 1
 67/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/.cache1634315822496723187 1
-76/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/about.html1634835209743755487 0
-84/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/index.f9227b91.css1634834711270783929 0
+76/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/about.html1635296531458051587 0
+84/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/index.f9227b91.css1635296094851074598 0
 85/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/contact.017db2f2.js1634828331018382883 0
 89/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/package.4be2e286.js.map1634606483526357216 0
 85/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/package.4be2e286.js1634606470548358070 0
@@ -1127,7 +1127,7 @@
 91/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/jake/node_modules1634825563419540797 1
 78/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/jake1634825569025540477 1
 110/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-modules-values/test/index.js1634825567209540580 0
-76/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/index.html1634835175018757468 0
+76/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/index.html1635296094845074598 0
 106/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-modules-values/README.md1634825566375540628 0
 132/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-modules-values/node_modules/chalk/types/index.d.ts1634825567221540580 0
 121/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-modules-values/node_modules/chalk/types1634825567155540584 1
@@ -2206,7 +2206,7 @@
 107/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/lib/alternatives.js1634825569891540427 0
 103/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/src/throttle.js1634825570394540399 0
 104/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/src/TapStream.js1634825570389540399 0
-85/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/index.654b7951.css1635201824238907614 0
+85/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/index.654b7951.css1635296642528045733 0
 104/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/src/sourcemap.js1634825570357540401 0
 101/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/src/schema.js1634825570338540402 0
 118/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/src/replaceBundleReferences.js1634825570313540403 0
@@ -2448,7 +2448,7 @@
 138/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/core/test/fixtures/custom-format-infer-type/package.json1634825571647540327 0
 125/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/core/test/fixtures/custom-format-infer-type1634825571645540327 1
 124/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/core/test/fixtures/custom-format-infer-ext1634825571643540327 1
-65/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist1634835209743755487 1
+65/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist1635296531470051586 1
 121/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/core/test/fixtures/context/package.json1634825571641540328 0
 108/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/core/test/fixtures/context1634825571640540328 1
 128/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/core/test/fixtures/common-targets/package.json1634825571638540328 0
@@ -3503,7 +3503,7 @@
 82/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/entities1634823178082676899 1
 133/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/caniuse-lite/data/features/domfocusin-domfocusout-events.js1634823179584676814 0
 118/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap/scss/helpers/_text-truncation.scss1634315514295737303 0
-75/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/src/about.html1634835209516755500 0
+75/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/src/about.html1635296530580051633 0
 140/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-modules-scope/node_modules/postcss/lib/css-syntax-error.js1634825568806540489 0
 99/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/side-channel/CHANGELOG.md1634825567186540582 0
 111/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/msgpackr/tests/test-node-iterators.js1634825569292540462 0
@@ -4465,7 +4465,7 @@
 114/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-icons/icons/patch-question.svg1634315529053736627 0
 113/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-normalize-charset/dist/index.js1634823177659676924 0
 94/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/path-type/index.d.ts1634825566258540635 0
-90/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/contact.35f48652.js.map1635201824242907613 0
+90/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/contact.35f48652.js.map1635296642548045732 0
 106/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/https-browserify/readme.markdown1634825566478540622 0
 105/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/core-js/es/typed-array/index.js1634825572349540287 0
 114/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-icons/icons/tropical-storm.svg1634315529192736620 0
@@ -6612,7 +6612,7 @@
 118/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/lib/replaceBundleReferences.js1634825570305540404 0
 95/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/lodash/fp/function.js1634604576621482794 0
 110/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/node-addon-api/napi-inl.deprecated.h1634825567225540580 0
-77/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/index.html1635201824237907614 0
+77/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/index.html1635296642526045733 0
 121/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-icons/icons/hand-thumbs-down-fill.svg1634315528996736629 0
 129/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-validate/docs/js/flexsearch-e54a90f706.min.js1634604577260482752 0
 110/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/yaml/browser/dist/Schema-e94716c8.js1634823178836676856 0
@@ -6986,7 +6986,7 @@
 99/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/utils/lib/glob.js1634825570144540413 0
 109/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@popperjs/core/lib/popper-lite.d.ts1634315514252737305 0
 99/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/namer-default/lib1634825569720540437 1
-64/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/src1635201219145939505 1
+64/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/src1635202112068892444 1
 117/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/caniuse-lite/data/features/css-hyphenate.js1634823179305676830 0
 119/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/hash/parcel-hash.linux-arm64-gnu.node1634825570085540416 0
 104/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@babel/types/lib/builders/flow1634825568111540529 1
@@ -7829,7 +7829,7 @@
 94/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-icons/font1634315529209736620 1
 101/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/terser/lib/equivalent-to.js1634825569981540422 0
 102/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/es-abstract/2017/MakeDate.js1634825571796540319 0
-60/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial1635201820350907819 1
+60/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial1635296640498045840 1
 92/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@popperjs/core/lib1634315514253737305 1
 113/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/es-abstract/2019/IsGenericDescriptor.js1634825571639540328 0
 119/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/caniuse-lite/data/features/css-reflections.js1634823179315676829 0
@@ -10687,7 +10687,7 @@
 105/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-icons/icons/watch.svg1634315529201736620 0
 99/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/msgpackr/rollup.config.js1634825569244540464 0
 117/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/caniuse-lite/data/features/web-animation.js1634823179962676792 0
-77/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/src/contact.html1635201219145939505 0
+77/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/src/contact.html1635202112068892444 0
 96/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/lodash/_baseFindKey.js1634604576203482822 0
 105/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/caniuse-lite/data/regions/TD.js1634823179946676793 0
 102/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/timers-browserify/LICENSE.md1634825566478540622 0
@@ -11498,7 +11498,7 @@
 96/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@babel/runtime/helpers1634604576300482815 1
 119/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/csso/lib/restructure/2-initialMergeRuleset.js1634823177652676924 0
 107/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@babel/core/lib/config/caching.js1634825566745540607 0
-88/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/index.f9227b91.css.map1634834711271783929 0
+88/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/index.f9227b91.css.map1635296094861074597 0
 108/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/cssnano-utils/dist/getArguments.js1634823177823676914 0
 113/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@babel/runtime/helpers/superPropBase.js1634604576287482816 0
 116/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-validate/.github/images/demo.gif1634604577154482759 0
@@ -12923,7 +12923,7 @@
 91/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/mkdirp/bin/cmd.js1634825566414540626 0
 118/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/terser/node_modules/source-map/source-map.js1634825567241540579 0
 89/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/ncp/test/ncp.js1634825568534540505 0
-78/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/contact.html1634835195847756280 0
+78/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/dist/contact.html1635296094844074598 0
 111/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/bootstrap-icons/icons/camera-fill.svg1634315528804736638 0
 94/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/mkdirp/bin/usage.txt1634825566834540602 0
 89/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/mkdirp/index.js1634825566480540622 0
@@ -14039,7 +14039,7 @@
 100/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/core-js/es/string/match.js1634825572741540265 0
 104/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/core-js/es/string/pad-start.js1634825572786540262 0
 96/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/node-forge/lib/util.js1634825570285540405 0
-97/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/codinghtml_117947.1e2913cd.png1635201820579907806 0
+97/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/codinghtml_117947.1e2913cd.png1635296640680045830 0
 95/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/des.js/lib/des/cbc.js1634825566817540603 0
 98/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/core-js/es/string/raw.js1634825572802540261 0
 134/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/css-modules-loader-core/node_modules/postcss/lib/tokenize.js1634825569748540436 0
@@ -16016,7 +16016,7 @@
 107/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/cssstyle/lib/properties/height.js1634825569771540434 0
 96/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/lodash/fp/trimChars.js1634604576770482784 0
 98/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/node-addon-api/nothing.c1634825566524540620 0
-77/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/about.html1635201824237907614 0
+77/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/about.html1635296642526045733 0
 117/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@parcel/hash/parcel-hash.linux-x64-gnu.node1634825570240540407 0
 126/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/msgpackr-extract/prebuilds/win32-x64/node.abi83.node1634825570704540381 0
 127/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/jsdom/lib/jsdom/living/generated/HTMLButtonElement.js1634825570564540389 0
@@ -17300,7 +17300,7 @@
 103/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/postcss-minify-params/LICENSE1634823177636676925 0
 87/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/generic-names1634825566943540596 1
 93/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/generic-names/.idea1634825568449540510 1
-86/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/contact.35f48652.js1635201824237907614 0
+86/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/build/contact.35f48652.js1635296642526045733 0
 134/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/@babel/generator/node_modules/source-map/lib/mapping-list.js1634825569647540441 0
 121/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/generic-names/.idea/dictionaries/sheo13666q.xml1634825567653540555 0
 105/home/shashreeshachindrasamuel14/Websites/bootstrap_tutorial/node_modules/generic-names/.idea/modules.xml1634825568157540526 0
